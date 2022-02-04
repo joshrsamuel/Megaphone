@@ -1,4 +1,6 @@
 # gt-webdev-protest
 Protest website for GT Web Dev Club
 
-README2
+Hello
+My name is Anh Nguyen
+
