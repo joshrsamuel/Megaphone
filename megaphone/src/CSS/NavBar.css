@@ -2,3 +2,25 @@
   background-color: #07376f;
   height: 5em;
 }
+
+.icon, .name, .summary {
+  height: 5em;
+  position: absolute;
+}
+
+.icon {
+  left: 10px;
+}
+
+.name {
+  top: 5px;
+  left: 100px;
+}
+
+.summary {
+  font-size: 50px;
+  font-style: italic;
+  color: yellow;
+  text-align: center;
+  width: 100%;
+}

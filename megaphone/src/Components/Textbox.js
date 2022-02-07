@@ -1,12 +1,11 @@
 import React from "react";
 
-function Textbox(props) {
+function TextBox(props) {
     return (
         <div>
-            <label>{props.name}</label>
-            <img src={props.imageSource}></img>
+            <label>{props.text}</label>
         </div>
     )
 }
 
-export default Textbox
+export default TextBox
