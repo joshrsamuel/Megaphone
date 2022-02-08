@@ -1,0 +1,12 @@
+.nav-link {
+  text-decoration: none;
+  color: white;
+  font-size: 3em;
+}
+
+.nav-item {
+  height: auto;
+  width: 20vw;
+  border-style: solid;
+  border-color: white;
+}
