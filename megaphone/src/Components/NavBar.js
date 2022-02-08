@@ -1,5 +1,4 @@
 import React from "react";
-import TextBox from "./TextBox";
 import Image from "./Image";
 import "../CSS/NavBar.css";
 
